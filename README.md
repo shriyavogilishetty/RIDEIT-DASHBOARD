@@ -5,7 +5,8 @@
 This Power BI dashboard analyzes RideIT driver performance, ride activity, bookings, cancellations, service type, and driver registration trends.
 
 ## Dashboard Preview
-![RideIT Dashboard](snapshot_dashboard.png.png)
+![RideIT Dashboard](snapshot_dashboard.png.png)-(https://github.com/shriyavogilishetty/RIDEIT-DASHBOARD/blob/main/snapshot_dashboard.png.png)
+
 
 ## Key KPIs
 - Total Drivers: 37K
